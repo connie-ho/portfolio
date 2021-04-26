@@ -8,7 +8,7 @@ tech:
   - jQuery
   - Express
   - Google Cloud Natural Language API
-showInProjects: true
+showInProjects: false
 ---
 
 An AI powered to-do list that sorts your tasks into categoriess

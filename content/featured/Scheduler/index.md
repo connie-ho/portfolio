@@ -10,7 +10,7 @@ tech:
   - PostgreSQL
   - Storybook
   - Cypress
-showInProjects: true
+showInProjects: false
 ---
 
 Scheduling app that allows students to book appointments with mentors
