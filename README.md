@@ -1,3 +1,3 @@
 <h1 align="center">
-  [connieho.ca](https://www.connieho.ca)
+  <a href="https://connieho.ca">connieho.ca</a>
 </h1>
