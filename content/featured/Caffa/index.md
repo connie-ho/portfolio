@@ -8,6 +8,7 @@ tech:
   - React
   - Firebase
   - Google Vision API
+  - Material UI
 showInProjects: false
 ---
 
