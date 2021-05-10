@@ -57,7 +57,7 @@ const Hero = () => {
   const three = <h3 className="big-heading">I build things for the web.</h3>;
   const four = (
     <p>
-      I'm a Canadian-based ex-chemical biomedical engineer turned junior developer who specializes
+      I'm a Canadian-based ex-chemical biomedical engineer turned software developer who specializes
       in building exceptional digital experiences.
     </p>
   );
