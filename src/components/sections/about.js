@@ -132,7 +132,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['React', 'Python', 'Javascript', 'PostgreSQL', 'Flask', 'Ruby'];
+  const skills = ['C++', 'TypeScript', 'Python', 'Ruby on Rails', 'React', 'MySQL'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -142,16 +142,20 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Connie and I enjoy creating things that live on the internet. My
-              interest in software development started from winning United Way's
-              &quot;Disrupt-athon&quot; where I pitched an idea to combat Canada's food waste issue.
-              It was so much fun, but I had a nagging feeling that something was missing - I wanted
-              to develop the idea as a product myself!
+              Fun fact, I used to be a reservoir and chemical biomedical engineer (a mouthful, I
+              know) before I realized I loved creating things with technology.
             </p>
 
             <p>
-              Fast-forward to today, I can proudly say I am a full-stack developer. I love all
-              things tech and can't wait to keep growing my skills.
+              My interest in software development started from winning United Way's
+              &quot;Disrupt-athon&quot; where I pitched an idea to combat Canada's food waste
+              problem. It was so much fun, but I had a nagging feeling that something was missing -
+              I wanted to develop the idea as a product myself!
+            </p>
+
+            <p>
+              Fast-forward to today, I can proudly say I am a full-fledged software engineer. I love
+              all things tech and can't wait to keep growing my skills.
             </p>
 
             <p>Here are a few technologies I've been working with recently:</p>
