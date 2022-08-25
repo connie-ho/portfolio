@@ -132,7 +132,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['C++', 'TypeScript', 'Python', 'Ruby on Rails', 'React', 'MySQL'];
+  const skills = ['C/C++', 'TypeScript', 'Python', 'Ruby on Rails', 'React', 'GraphQL'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -147,15 +147,11 @@ const About = () => {
             </p>
 
             <p>
-              My interest in software development started from winning United Way's
-              &quot;Disrupt-athon&quot; where I pitched an idea to combat Canada's food waste
-              problem. It was so much fun, but I had a nagging feeling that something was missing -
-              I wanted to develop the idea as a product myself!
-            </p>
-
-            <p>
-              Fast-forward to today, I can proudly say I am a full-fledged software engineer. I love
-              all things tech and can't wait to keep growing my skills.
+              My curiosity grew until fast forward today, I now have my masters in software
+              engineering. I've had the privilege of exploring many exciting fields in computer
+              science and technology such as creating a model to predict stock prices or building my
+              own NFT marketplace. Currently, my main focus is expanding the capital infrastructure
+              and products at Shopify for their incredible merchants.
             </p>
 
             <p>Here are a few technologies I've been working with recently:</p>

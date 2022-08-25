@@ -1,5 +1,5 @@
 ---
-date: '2'
+date: '1'
 title: 'Smart To-Do List'
 cover: './smarttodo.png'
 github: 'https://github.com/connie-ho/Smart-TODO-List'

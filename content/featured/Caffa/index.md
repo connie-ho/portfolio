@@ -1,5 +1,5 @@
 ---
-date: '3'
+date: '2'
 title: 'Caffa'
 cover: './caffa.png'
 github: 'https://github.com/connie-ho/caffa'
